@@ -1,5 +1,6 @@
 # the-konferense-demos
-Find here all demos from my TheKonferenSE 20 talk.
+All demos from my TheKonferenSE 20 talk, built with [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) v1 & [react-native-redash](https://github.com/wcandillon/react-native-redash)
+
 
 
 
