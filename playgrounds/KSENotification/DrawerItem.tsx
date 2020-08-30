@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     },
     shadowOpacity: 0.3,
     shadowRadius: 10.32,
-    elevation: 16,
+    elevation: 0,
 
     paddingHorizontal: 15,
     justifyContent: 'center',
