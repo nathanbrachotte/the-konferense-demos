@@ -4,7 +4,7 @@ All demos from my TheKonferenSE 20 talk, built with [react-native-reanimated](ht
 
 Requires Expo to run: [Expo Doc](https://docs.expo.io/)
 
-Join us @klarna: [![Engineer at Klarna][klarna-badge]](https://engineering.klarna.com/)
+Join us @klarna: [![Engineer at Klarna][klarna-badge]](https://jobs.lever.co/klarna?lever-via=i1KtV0aNYj)
 
 ### Note
 This demos are not meant to end up in production and not meant to be scalable. But feel free to suggest improvements or use them for anything you want 🙂
