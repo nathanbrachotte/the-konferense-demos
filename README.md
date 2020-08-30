@@ -2,7 +2,7 @@
 All demos from my TheKonferenSE 20 talk, built with [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) v1 & [react-native-redash](https://github.com/wcandillon/react-native-redash)
 
 
-
+Requires Expo to run: [Expo Doc](https://docs.expo.io/)
 
 Join us @klarna: [![Engineer at Klarna][klarna-badge]](https://engineering.klarna.com/)
 
