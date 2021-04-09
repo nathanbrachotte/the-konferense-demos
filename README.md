@@ -1,5 +1,5 @@
 # the-konferense-demos
-All demos from my TheKonferenSE 20 talk, built with [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) v1 & [react-native-redash](https://github.com/wcandillon/react-native-redash)
+All demos from my [TheKonferenSE 20 talk](https://www.youtube.com/watch?v=64h3TKCx0jY&t=1167s), built with [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) v1 & [react-native-redash](https://github.com/wcandillon/react-native-redash)
 
 
 Requires Expo to run: [Expo Doc](https://docs.expo.io/)
